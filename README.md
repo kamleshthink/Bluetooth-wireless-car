@@ -15,9 +15,4 @@ A project to control a car wirelessly using Bluetooth. This project involves usi
 - Battery pack
 - Chassis
 
-## Getting Started
-To get started with this project, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Bluetooth-Wireless-Car.git
