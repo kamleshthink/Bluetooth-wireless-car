@@ -5,12 +5,12 @@ A project to control a car wirelessly using Bluetooth. This project involves usi
 ## Features
 - Control car movements (forward, backward, left, right,forward right , forward left,backward right, backward left)
 - Speed control
-- Real-time status updates
+  
 
 ## Components
 - Arduino
-- Motor driver
-- Bluetooth module (e.g., HC-05)
+- Motor driver(L298N)
+- Bluetooth module ( HC-05)
 - Motors and wheels
 - Battery pack
 - Chassis
